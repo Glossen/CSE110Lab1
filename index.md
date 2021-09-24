@@ -20,5 +20,5 @@ Unrelated [Relative Link](PRIVATE.txt)
 
 Some Pictures of or relating to ![Trieste!](Trieste!/405px-Trieste_collage.jpg)
 
-[Flag](Trieste!/150px-Free_Territory_Trieste_Flag.svg.png)
+[Flag](Trieste!/150px-Free_Territory_Trieste_Flag.png)
 
