@@ -1,3 +1,2 @@
 Lucas Horwitz
 A15675070
-.gitignore
